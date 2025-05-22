@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="eigen" attr.type="double" />
+  <graph edgedefault="directed">
+    <node id="@randykatesATL">
+      <data key="d0">0.2672610799832292</data>
+    </node>
+    <node id="@LukeBarousse">
+      <data key="d0">0.2672610799832292</data>
+    </node>
+    <node id="@JeffSu">
+      <data key="d0">0.7071072096106685</data>
+    </node>
+    <node id="@borisbadinoff1291">
+      <data key="d0">0.2672610799832292</data>
+    </node>
+    <node id="@gmansi">
+      <data key="d0">0.2672610799832292</data>
+    </node>
+    <node id="@ogunsusijoshua2455">
+      <data key="d0">0.2672610799832292</data>
+    </node>
+    <node id="@johnruedisueli5966">
+      <data key="d0">0.2672610799832292</data>
+    </node>
+    <node id="@mehagautam1923">
+      <data key="d0">0.2672610799832292</data>
+    </node>
+    <edge source="@randykatesATL" target="@JeffSu" />
+    <edge source="@LukeBarousse" target="@JeffSu" />
+    <edge source="@JeffSu" target="@LukeBarousse" />
+    <edge source="@JeffSu" target="@mehagautam1923" />
+    <edge source="@JeffSu" target="@johnruedisueli5966" />
+    <edge source="@JeffSu" target="@ogunsusijoshua2455" />
+    <edge source="@JeffSu" target="@randykatesATL" />
+    <edge source="@JeffSu" target="@gmansi" />
+    <edge source="@JeffSu" target="@borisbadinoff1291" />
+    <edge source="@borisbadinoff1291" target="@JeffSu" />
+    <edge source="@gmansi" target="@JeffSu" />
+    <edge source="@ogunsusijoshua2455" target="@JeffSu" />
+    <edge source="@johnruedisueli5966" target="@JeffSu" />
+    <edge source="@mehagautam1923" target="@JeffSu" />
+  </graph>
+</graphml>
